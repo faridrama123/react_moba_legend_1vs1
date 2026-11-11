@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Legends 1v1 Arena",
+  "description": "3D 1v1 MOBA showdown inspired by Mobile Legends. Pick your hero (Layla, Tigreal, Eudora, Alucard, Miya), push the lane with minions, destroy turrets, unleash signature skills, and dominate the rival hero in an intense 1v1 battle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
